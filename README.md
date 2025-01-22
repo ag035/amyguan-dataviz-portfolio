@@ -2,31 +2,33 @@
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  
-- Web page URL: https://ag035.github.io/amyguan-dataviz-portfolio/
-- This repository: https://github.com/ag035/amyguan-dataviz-portfolio
+### Web page URL: 
+https://ag035.github.io/amyguan-dataviz-portfolio/
+### This repository: 
+https://github.com/ag035/amyguan-dataviz-portfolio
 
 # About me
-Hi! I’m Amy Guan. I was born and raised in Ningbo, a vibrant city on the east coast of China. At 16, I moved to the other side of the world - Ottawa - for high school and began my journey as an international student and traveler.
+Hi! I’m **Amy Guan**. I was born and raised in _Ningbo_, a vibrant city on the east coast of China. At 16, I moved to the other side of the world - _Ottawa_ - for high school and began my journey as an international student and traveler.
 
-In college (Bryn Mawr College, PA), I developed an interest in comparative politics and international affairs. This brought me to Carnegie Mellon University, where I’m pursuing a Master’s in Public Policy and Management. My focus is on equitable social policies, such as housing and health. My past research includes racial exclusion laws and policies affecting the APPA community, and their repealing process.
+In college (_Bryn Mawr College, PA_), I developed an interest in comparative politics and international affairs. This brought me to _Carnegie Mellon University_, where I’m pursuing a **Master’s in Public Policy and Management**. My focus is on equitable social policies, such as housing and health. My past research includes racial exclusion laws and policies affecting the APPA community, and their repealing process.
 
 Outside my program, I enjoy cooking, learning the ukulele, and watching thriller series.
 
 # What I hope to learn
-I'm taking _Telling Stories with Data_ because I believe data visualization and story telling are just as important as data processing itself. Below are some specific skills I hope to develop:
+I'm taking _Telling Stories with Data_ because I believe data visualization and story telling are just as important as data processing itself. Below are some **specific skills I hope to develop**:
 
 1. Learning to use tools like Tableau and Excel to prepare and visualize data effectively
 2. Understanding how design elements could help conveying clearer messages from data
 3. Developing the ability to identify narratives in news or articles that use data to tell stories
 
-Additionally, my goals include:
+Additionally, **my goals include**:
 1. Building a presentable portfolio for future job searches
 2. Using the skills acquired from this class to bridge the gap between people and data, making information more accessible to non-technical audiences
 
 
 # Portfolio
 
-# Examples
+## Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
