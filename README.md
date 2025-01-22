@@ -1,17 +1,16 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  
+- Web page URL: https://ag035.github.io/amyguan-dataviz-portfolio/
+- This repository: https://github.com/ag035/amyguan-dataviz-portfolio
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! I’m Amy Guan. I was born and raised in Ningbo, a quiet city on the east coast of China. At 16, I moved to the other side of the world - Ottawa - for high school and began my journey as an international student and traveler.
+
+In college (Bryn Mawr College, PA), I developed an interest in comparative politics and international affairs. This brought me to Carnegie Mellon University, where I’m pursuing a Master’s in Public Policy and Management. My focus is on equitable social policies, such as housing and health. My past research includes racial exclusion laws and policies affecting the APPA community, and their repealing process.
+
+Outside my program, I enjoy cooking, learning the ukulele, and watching thriller series.
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
