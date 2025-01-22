@@ -28,6 +28,9 @@ Additionally, **my goals include**:
 
 # Portfolio
 
+## In-Class Dataviz 1: Urban Mobility Readiness 
+<img src="https://github.com/user-attachments/assets/77ee2dee-b7d5-40fa-8c3a-ecdc691cc354" alt="image" width="500">
+
 ## Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
@@ -114,4 +117,5 @@ _List any references you used here._
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+1. I used ChatGPT to resize the image of In-class Dataviz #1. 
 
