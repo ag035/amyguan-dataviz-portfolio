@@ -96,9 +96,9 @@ _Poll_: what do you think is the biggest barrier to having more children in kore
 policy recommendations. 
 
 ### Sketches
-![expected reaction on presentation timeline](ExpectedReactions.png)
-![fertility rate](FertilityRate.png)
-![interactive timeline of SK pronatalist policy and fertility rate](InteractiveTimeline.png)
+<img src="ExpectedReactions.png" alt="Expected reaction on presentation timeline" width="500">
+<img src="FertilityRate.png" alt="Fertility rate" width="500">
+<img src="InteractiveTimeline.png" alt="Interactive timeline of SK pronatalist policy and fertility rate" width="500">
 
 ### Data
 
@@ -113,10 +113,15 @@ Data on the proportion of seats held by women in national parliaments and the fe
 **Current Sources**
 
 Adolescent fertility rate (births per 1,000 women ages 15-19). (n.d.). World Bank Gender Data Portal. Retrieved February 4, 2025, from https://genderdata.worldbank.org/en/indicator/sp-ado-tfrt
+
 Fertility rate, total (births per woman). (n.d.). World Bank Gender Data Portal. Retrieved February 4, 2025, from https://genderdata.worldbank.org/en/indicator/sp-dyn-tfrt-in
+
 Length of parental leave (calendar days). (n.d.). World Bank Gender Data Portal. Retrieved February 4, 2025, from https://liveprod.worldbank.org/en/indicator/sh-par-leve
+
 Proportion of seats held by women in national parliaments (%). (n.d.). World Bank Gender Data Portal. Retrieved February 4, 2025, from https://genderdata.worldbank.org/en/indicator/sg-gen-parl-zs
+
 Ratio of female to male labor force participation rate (%). (n.d.). World Bank Gender Data Portal. Retrieved February 4, 2025, from https://genderdata.worldbank.org/en/indicator/sl-tlf-cact-fm-zs
+
 The government administers 100 percent of maternity leave benefits (1=yes; 0=no). (n.d.). World Bank Gender Data Portal. Retrieved February 4, 2025, from https://genderdata.worldbank.org/en/indicator/sh-mmr-leve-gt
 
 ### Delivery
