@@ -96,17 +96,32 @@ _Poll_: what do you think is the biggest barrier to having more children in kore
 policy recommendations. 
 
 ### Sketches
-![expected reaction on presentation timeline](https://github.com/ag035/amyguan-dataviz-portfolio/blob/6f3dc17b8fe7391b1ae23dc9d7e4ca7cf78d0d28/Fertility%20Rate.pdf)
-![fertility rate]([https://github.com/amyguan-dataviz-portfolio/FertilityRate.pdf](https://raw.githubusercontent.com/ag035/amyguan-dataviz-portfolio/main/FertilityRate.pdf)
-
+![expected reaction on presentation timeline](ExpectedReactions.png)
+![fertility rate](FertilityRate.png)
 ![interactive timeline of SK pronatalist policy and fertility rate](InteractiveTimeline.png)
-
-
-![funny dog picture](funny-dog-unsplash.jpg)
 
 ### Data
 
+**Approach**
+
+The data sources for this analysis are drawn from the World Bank Gender Dta Portal, a widely recognized public accessible data source of global gender-related statistics. The data set on adolescent fertility rates (births per 1000 women aged 15-19) and total fertility rates provide a foundational approach to understand trends in childbearing in South Korea and its peer countries. 
+
+Additionally, the length of parental leave and government's role in administering maternity leave benefits help assess the structural support provided to working parents. 
+
+Data on the proportion of seats held by women in national parliaments and the female to male labor force participation ratio explains gender equality in political and economic spheres. 
+
+**Current Sources**
+
+Adolescent fertility rate (births per 1,000 women ages 15-19). (n.d.). World Bank Gender Data Portal. Retrieved February 4, 2025, from https://genderdata.worldbank.org/en/indicator/sp-ado-tfrt
+Fertility rate, total (births per woman). (n.d.). World Bank Gender Data Portal. Retrieved February 4, 2025, from https://genderdata.worldbank.org/en/indicator/sp-dyn-tfrt-in
+Length of parental leave (calendar days). (n.d.). World Bank Gender Data Portal. Retrieved February 4, 2025, from https://liveprod.worldbank.org/en/indicator/sh-par-leve
+Proportion of seats held by women in national parliaments (%). (n.d.). World Bank Gender Data Portal. Retrieved February 4, 2025, from https://genderdata.worldbank.org/en/indicator/sg-gen-parl-zs
+Ratio of female to male labor force participation rate (%). (n.d.). World Bank Gender Data Portal. Retrieved February 4, 2025, from https://genderdata.worldbank.org/en/indicator/sl-tlf-cact-fm-zs
+The government administers 100 percent of maternity leave benefits (1=yes; 0=no). (n.d.). World Bank Gender Data Portal. Retrieved February 4, 2025, from https://genderdata.worldbank.org/en/indicator/sh-mmr-leve-gt
+
 ### Delivery
+
+I might create an interactive website to present my content, which will stay accessible to broader readers after class. I'm considering using Shorthand. 
 
 ## Part II
 [Part II](final-project-part-two)
@@ -114,14 +129,7 @@ policy recommendations.
 ## Part III
 Part III(final-project-part-three)
 
----
-## Other stuff you can do (you can remove this section - it's just for your reference.)
 
-### Changing text
-
-You can change text, like this: 
-
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
 
 ### Creating tables
 
@@ -135,26 +143,7 @@ You can build tables like this:
 
 An easy-to-use template generator tool [can be found here](https://www.tablesgenerator.com/markdown_tables)
 
-You can use different headings, like this: 
 
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
-You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
-
-### Adding images
-
-Here's an example of how to add an image to my portfolio.  
-
-![funny dog picture](funny-dog-unsplash.jpg)
-> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-
-Alternately, you can set the size of the image using just a bit of HTML: 
-
-<img src="funny-dog-unsplash.jpg" width="200"/>
-
-Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.  
 
 ### Setting up a separate page
 
