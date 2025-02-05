@@ -52,35 +52,53 @@ South Korea faces a severe demographic challenge, with its fertility rate droppi
 
 ### Outline
 **1. Introduction**
+
 _Fun fact_: South Korea had more pet strollers sold than baby strollers. (picture)
+
 Overview of Korea's declining fertility rate. 
+
 Introduce Sweden as a counterexample: once faced a similar issue, how did they reverse the trend. 
 
 **2. DataViz: Korea's declining birth rate**
+
 _idea 1_: korea's fertility rate dropping
+
 _idea 2_: interactive timeline of Korea's policy efforts vs. birth rate trends
+
 _idea 3_: comparative of Korea and Sweden fertility rate
 
 **3. What has Korea tried**
+
 side by side comparison of policy and their actual impact on fertility 
+
 examples: maternity and parental leave policies, financial incentives and subsidies
 
 **4. What Sweden did differently**
+
 organize by factor 
+
 _factor 1_: equal parental leave policies (dataset found: parental leave for fathers)
+
 _factor 2_: higher representation of women in government and workplace leadership (dataset found: Proportion of seats held by women in national parliaments (%))
+
 _factor 3_: possibilities of losing job or professional opportunities due to pregnancy 
 
 **5. The missing pieces in Korea's approach (key takeaways)**
 
 **6. Implications**
+
 I'm not urging for higher fertility rate through this project as an end goal - women should have full autonomy over their reproductive choices. However, a persistently low birth rate can serve as a signal that systemic barriers, such as workplace policies, gender norms, and childcare access, made parenthood an unattractive option for many. If more women feel empowered, supported, and able to handle career and family without significant personal or financial strain, a higher fertility rate may naturally follow as an indicator of improved conditions rather than an objective itself. 
 
 **7. Call to action**
-_poll_: what do you think is the biggest barrier to having more children in korea? 
+
+_Poll_: what do you think is the biggest barrier to having more children in korea? 
+
 policy recommendations. 
 
 ### Sketches
+![expected reaction on presentation timeline](ExpectedReaction.pdf)
+![fertility rate](https://github.com/amyguan-dataviz-portfolio/FertilityRate.pdf)
+![interactive timeline of SK pronatalist policy and fertility rate](https://github.com/amyguan-dataviz-portfolio/InteractiveTimeline.pdf)
 
 ### Data
 
