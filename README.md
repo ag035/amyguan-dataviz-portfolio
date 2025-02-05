@@ -96,8 +96,8 @@ _Poll_: what do you think is the biggest barrier to having more children in kore
 policy recommendations. 
 
 ### Sketches
-![expected reaction on presentation timeline](ExpectedReaction.pdf)
-![fertility rate](https://github.com/amyguan-dataviz-portfolio/FertilityRate.pdf)
+![expected reaction on presentation timeline](https://github.com/ag035/amyguan-dataviz-portfolio/blob/6f3dc17b8fe7391b1ae23dc9d7e4ca7cf78d0d28/Fertility%20Rate.pdf)
+![fertility rate]([https://github.com/amyguan-dataviz-portfolio/FertilityRate.pdf](https://raw.githubusercontent.com/ag035/amyguan-dataviz-portfolio/main/FertilityRate.pdf)
 ![interactive timeline of SK pronatalist policy and fertility rate](https://github.com/amyguan-dataviz-portfolio/InteractiveTimeline.pdf)
 
 ### Data
