@@ -1,42 +1,88 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
+## Final project
+Here it might be helpful to include a high-level description of your final project. 
+## Part I
+[Part I](final-project-part-one)
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
+### Summary
+**Korea's pronatalist policies: a failing formula? Lessons from Sweden**
+South Korea faces a severe demographic challenge, with its fertility rate dropping to the lowest in the world despite extensive government policy efforts. Pronatalist policies, including parental leave, childcare subsidies, and financial incentives, have not reversed the numbers. This project explores South Korean's efforts, their effectiveness, and policy solutions based on Sweden's successful model. 
 
-# Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+### Outline
+**1. Introduction**
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+_Fun fact_: South Korea had more pet strollers sold than baby strollers. (picture)
 
-Text here...
+Overview of Korea's declining fertility rate. 
 
-## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+Introduce Sweden as a counterexample: once faced a similar issue, how did they reverse the trend. 
 
-Text here...
+**2. DataViz: Korea's declining birth rate**
 
-# The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+_idea 1_: korea's fertility rate dropping
 
-Text here...
+_idea 2_: interactive timeline of Korea's policy efforts vs. birth rate trends
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+_idea 3_: comparative of Korea and Sweden fertility rate
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+**3. What has Korea tried**
 
-# Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+side by side comparison of policy and their actual impact on fertility 
 
-Text here...
+examples: maternity and parental leave policies, financial incentives and subsidies
 
-## References
-_List any references you used here._
+**4. What Sweden did differently**
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+organize by factor 
+
+_factor 1_: equal parental leave policies (dataset found: parental leave for fathers)
+
+_factor 2_: higher representation of women in government and workplace leadership (dataset found: Proportion of seats held by women in national parliaments (%))
+
+_factor 3_: possibilities of losing job or professional opportunities due to pregnancy 
+
+**5. The missing pieces in Korea's approach (key takeaways)**
+
+**6. Implications**
+
+I'm not urging for higher fertility rate through this project as an end goal - women should have full autonomy over their reproductive choices. However, a persistently low birth rate can serve as a signal that systemic barriers, such as workplace policies, gender norms, and childcare access, made parenthood an unattractive option for many. If more women feel empowered, supported, and able to handle career and family without significant personal or financial strain, a higher fertility rate may naturally follow as an indicator of improved conditions rather than an objective itself. 
+
+**7. Call to action**
+
+_Poll_: what do you think is the biggest barrier to having more children in korea? 
+
+policy recommendations. 
+
+### Sketches
+<img src="ExpectedReactions.png" alt="Expected reaction on presentation timeline" width="500">
+<img src="FertilityRate.png" alt="Fertility rate" width="500">
+<img src="InteractiveTimeline.png" alt="Interactive timeline of SK pronatalist policy and fertility rate" width="500">
+
+### Data
+
+**Approach**
+
+The data sources for this analysis are drawn from the World Bank Gender Dta Portal, a widely recognized public accessible data source of global gender-related statistics. The data set on adolescent fertility rates (births per 1000 women aged 15-19) and total fertility rates provide a foundational approach to understand trends in childbearing in South Korea and its peer countries. 
+
+Additionally, the length of parental leave and government's role in administering maternity leave benefits help assess the structural support provided to working parents. 
+
+Data on the proportion of seats held by women in national parliaments and the female to male labor force participation ratio explains gender equality in political and economic spheres. 
+
+**Current Sources**
+
+Adolescent fertility rate (births per 1,000 women ages 15-19). (n.d.). World Bank Gender Data Portal. Retrieved February 4, 2025, from https://genderdata.worldbank.org/en/indicator/sp-ado-tfrt
+
+Fertility rate, total (births per woman). (n.d.). World Bank Gender Data Portal. Retrieved February 4, 2025, from https://genderdata.worldbank.org/en/indicator/sp-dyn-tfrt-in
+
+Length of parental leave (calendar days). (n.d.). World Bank Gender Data Portal. Retrieved February 4, 2025, from https://liveprod.worldbank.org/en/indicator/sh-par-leve
+
+Proportion of seats held by women in national parliaments (%). (n.d.). World Bank Gender Data Portal. Retrieved February 4, 2025, from https://genderdata.worldbank.org/en/indicator/sg-gen-parl-zs
+
+Ratio of female to male labor force participation rate (%). (n.d.). World Bank Gender Data Portal. Retrieved February 4, 2025, from https://genderdata.worldbank.org/en/indicator/sl-tlf-cact-fm-zs
+
+The government administers 100 percent of maternity leave benefits (1=yes; 0=no). (n.d.). World Bank Gender Data Portal. Retrieved February 4, 2025, from https://genderdata.worldbank.org/en/indicator/sh-mmr-leve-gt
+
+### Delivery
+
+I might create an interactive website to present my content, which will stay accessible to broader readers after class. I'm considering using Shorthand. 
