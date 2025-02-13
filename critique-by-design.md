@@ -75,7 +75,15 @@ This evaluation method provides a conclusive audience perception of the visualiz
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+<img src="ProteinSource.png" alt="Final Viz: Protein Source Cost per 20 Gram by Option " width="700">
+
+I used datawrapper for my final redesign of the visualization. 
+
+Considering that the audience of the viz could be consumers who focus on their protein intake and nutritient balance, I categorized meat and vegetarian options. Considering feed back from interviewees, this would also benefit people who are considering shifting diet for economic reasons. 
+
+I picked color yellow to represent meat options, and color green to represent vegetarian options. On top of that, I ordered the bars by descending order, to showcase the cheapest to most expensive protein source ranking. I highlighted the cheapest meat and vegetarian sources, which are chicken thigh and dried black beans, so that they would stand out to audience. 
+
+My interviewees reflected that they would benefit from more labels to understand the chart better, which is why I incorporated all numerical costs in the viz. They are aligned, so that it does not look disturbing. I also redesigned the layout. My previous layout makes it confusing to read and compare meat and vegetarian options, which is why I put them in two separate subcharts so that audience can navigate to their choice of diet. 
 
 ## References
 
