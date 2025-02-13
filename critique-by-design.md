@@ -38,6 +38,9 @@ This evaluation method provides a conclusive audience perception of the visualiz
    
 ## Step three: Sketch a solution
 
+<img src="Sketch.jpg" alt="Sketch" width="500">
+
+
 ## Step four: Test the solution
 
 ### Questions List:
