@@ -16,10 +16,25 @@ Text here!
 > List the goals from your research, and the questions you intend to ask. 
 
 Do you find the logical flow smooth? 
+-> set up looks nice, the hook is good; might lose people when starts introducing policies (impact)
+-> address why it's important (how economies would improve with that) 
+
 What do you think is the major point of the presentation? 
+
 What data appeals to you the most? 
+-> chart with birth rate (maybe add a line for average); provides the picture of the situation 
+-> refine sweden over time vs south korea over time 
+
 What questions do you have after viewing the presentation? 
+-> why women does not want to have kid 
+-> any factors from education 
+
 What other elements or sections could be added to assist your understanding or visualization?
+-> easy to understand 
+-> historical section might get wordy 
+
+Danning MSPPM 
+Sushruti Master of Urban Design
 
 Text here!
 
