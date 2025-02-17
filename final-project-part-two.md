@@ -33,6 +33,7 @@ What other elements or sections could be added to assist your understanding or v
 -> easy to understand 
 -> historical section might get wordy 
 
+-> factors with Sweden that makes it successful (give final index as data and start from there) 
 Danning MSPPM 
 Sushruti Master of Urban Design
 
