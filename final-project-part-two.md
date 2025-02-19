@@ -8,9 +8,14 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+My target audience would include three groups. 
+
+1. Korean officials that are stakeholders in the policymaking of reproductive rights and fertility rate goals. In 2023, the Republic of Korea established a **Presidential Committee on Aging Society and Population Policy** dedicated to addressing the aging crisis and Korea’s total fertility rate that is hitting a low record. This committee, along with **South Korean Ministry of Health and Welfare**, would be my primary target audience.
+
+2. I target to provide information and advice to **global policymakers** who are looking to address population aging, create a more friendly environment for child raising, and/or improve fertility rate. This would include policymakers from **China**, **Japan**, **Italy**, etc.
+
+3. This project could also inspire **private business**'s initiatives to provide a more collaborative and flexible work environment for young parents, and consider what businesses could offer to address aging society while remaining profit and productivity. Companies with leading influence and status could be a key influencer in their industries in making these policies, such as **Samsung**, **Starbucks**, and **BCG**.  
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
@@ -41,9 +46,9 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|**Reasonable and Appealing Logics of the Story**| 1. Do you find the logical flow smooth? If not, where would you change?|
+|**General Understanding of Content**|2. What do you think is the major purpose of the project? 3. What questions do you have after viewing the project?|
+|**Clear Visualization**|4. What other elements or sections could be added to assist your understanding or visualization?|
 
 
 Text here!
@@ -53,11 +58,11 @@ Text here!
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Danning (MSPPM year I) | Sushruti (Master of Urban Design) | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| 1 | Insightful feedback            |             |             |
+| 2|                                |             |             |
+| 3|                                |             |             |
 
 
 # Identified changes for Part III
