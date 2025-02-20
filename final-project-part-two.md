@@ -18,51 +18,21 @@ My target audience would include three groups.
 3. This project could also inspire **private business**'s initiatives to provide a more collaborative and flexible work environment for young parents, and consider what businesses could offer to address aging society while remaining profit and productivity. Companies with leading influence and status could be a key influencer in their industries in making these policies, such as **Samsung**, **Starbucks**, and **BCG**.  
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Do you find the logical flow smooth? 
--> set up looks nice, the hook is good; might lose people when starts introducing policies (impact)
--> address why it's important (how economies would improve with that) 
-
-What do you think is the major point of the presentation? 
-
-What data appeals to you the most? 
--> chart with birth rate (maybe add a line for average); provides the picture of the situation 
--> refine sweden over time vs south korea over time 
-
-What questions do you have after viewing the presentation? 
--> why women does not want to have kid 
--> any factors from education 
-
-What other elements or sections could be added to assist your understanding or visualization?
--> easy to understand 
--> historical section might get wordy 
-
--> factors with Sweden that makes it successful (give final index as data and start from there) 
-Danning MSPPM 
-Sushruti Master of Urban Design
-
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
 |**Reasonable and Appealing Logics of the Story**| 1. Do you find the logical flow smooth? If not, where would you change?|
 |**General Understanding of Content**|2. What do you think is the major purpose of the project? 3. What questions do you have after viewing the project?|
-|**Clear Visualization**|4. What other elements or sections could be added to assist your understanding or visualization?|
+|**Clear Visualization**|4. What data appeal to you the most? 5. What other elements or sections could be added to assist your understanding or visualization?|
 
-
-Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Danning (MSPPM year I) | Sushruti (Master of Urban Design) | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| 1 | Insightful feedback            |             |             |
-| 2|                                |             |             |
-| 3|                                |             |             |
+| Questions               | Danning (MSPPM year I) | Sushruti (Master of Urban Design) |  
+|-------------------------|--------------------------------|-------------|
+| 1|The set up is nice and the hook is interesting. Might lose audience while explaining policies, can combine that with more data charts. |Would be helpful to address why birth rate is important, thinking economic perspective might help the logic.|             
+| 2|Why women do not want kids in SK? What are the major factors?|Are there any factors from education that add pressure to having children?|             
+| 3|The data chart with declining birthrate; maybe adding a line for world average would help. It provides an overall picture of the situation.|Consider refining Sweden over time vs. Korea over time. Might get rid of the historical section since it might get wordy.|             
 
 
 # Identified changes for Part III
