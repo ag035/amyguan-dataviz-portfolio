@@ -1,9 +1,8 @@
 | [home page ](https://ag035.github.io/amyguan-dataviz-portfolio/)| [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+Shorthand: [Preview Link](https://preview.shorthand.com/iuvJDroHkY0ppFfp) 
 
 # User research 
 
@@ -21,45 +20,34 @@ My target audience would include three groups.
 
 | Goal | Questions to Ask |
 |------|------------------|
-|**Reasonable and Appealing Logics of the Story**| 1. Do you find the logical flow smooth? If not, where would you change?|
+|**Reasonable and Appealing Logics of the Story**|1. Do you find the logical flow smooth? If not, where would you change?|
 |**General Understanding of Content**|2. What do you think is the major purpose of the project? 3. What questions do you have after viewing the project?|
 |**Clear Visualization**|4. What data appeal to you the most? 5. What other elements or sections could be added to assist your understanding or visualization?|
 
 
 ## Interview findings
 
-| Questions               | Danning (MSPPM year I) | Sushruti (Master of Urban Design) |  
+| Questions               | MSPPM year I Student | Master of Urban Design Student |  
 |-------------------------|--------------------------------|-------------|
 | 1|The set up is nice and the hook is interesting. Might lose audience while explaining policies, can combine that with more data charts. |Would be helpful to address why birth rate is important, thinking economic perspective might help the logic.|             
 | 2|Why women do not want kids in SK? What are the major factors?|Are there any factors from education that add pressure to having children?|             
-| 3|The data chart with declining birthrate; maybe adding a line for world average would help. It provides an overall picture of the situation.|Consider refining Sweden over time vs. Korea over time. Might get rid of the historical section since it might get wordy.|             
+| 3|The data chart with declining birthrate; maybe adding a line for world average would help. It provides an overall picture of the situation.|Consider refining Sweden over time vs. Korea over time. Highlight that Sweden's successful policy with data results. Consider getting rid of the historical section since it might get wordy.|             
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
+| Research synthesis (Findings/Observations from Interviews) | Anticipated changes for Part III |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
+| Balanced Structure | Less emphasis on the historical part that might already be known by readers, such as why some policies failed. However, factors that impacted the low birth rate might be helpful to get the logic straight. |
+| Visualization | More comparisons in singular charts to showcase Korean data compared to world average. |
+| Concise Swedish Elements | Instead of making full set of comparisons, focus on what factors led to the Swedish policy success, and how could Korea adapt that. |
+| Pictures | More pictures, instead of all data charts, might help readers focus for a longer time. |
 
 ## References
-_List any references you used here._
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+World Bank Gender Data Portal. “Adolescent Fertility Rate (Births per 1,000 Women Ages 15-19).” Accessed February 4, 2025. https://genderdata.worldbank.org/en/indicator/sp-ado-tfrt.
+World Bank Gender Data Portal. “Fertility Rate, Total (Births per Woman).” Accessed February 4, 2025. https://genderdata.worldbank.org/en/indicator/sp-dyn-tfrt-in.
+World Bank Gender Data Portal. “Length of Parental Leave (Calendar Days).” Accessed February 4, 2025. https://liveprod.worldbank.org/en/indicator/sh-par-leve.
+World Bank Gender Data Portal. “Proportion of Seats Held by Women in National Parliaments (%).” Accessed February 4, 2025. https://genderdata.worldbank.org/en/indicator/sg-gen-parl-zs.
+World Bank Gender Data Portal. “Ratio of Female to Male Labor Force Participation Rate (%).” Accessed February 4, 2025. https://genderdata.worldbank.org/en/indicator/sl-tlf-cact-fm-zs.
+World Bank Gender Data Portal. “The Government Administers 100 Percent of Maternity Leave Benefits (1=yes; 0=no).” Accessed February 4, 2025. https://genderdata.worldbank.org/en/indicator/sh-mmr-leve-gt.
