@@ -46,8 +46,13 @@ My target audience would include three groups.
 ## References
 
 World Bank Gender Data Portal. “Adolescent Fertility Rate (Births per 1,000 Women Ages 15-19).” Accessed February 4, 2025. https://genderdata.worldbank.org/en/indicator/sp-ado-tfrt.
+
 World Bank Gender Data Portal. “Fertility Rate, Total (Births per Woman).” Accessed February 4, 2025. https://genderdata.worldbank.org/en/indicator/sp-dyn-tfrt-in.
+
 World Bank Gender Data Portal. “Length of Parental Leave (Calendar Days).” Accessed February 4, 2025. https://liveprod.worldbank.org/en/indicator/sh-par-leve.
+
 World Bank Gender Data Portal. “Proportion of Seats Held by Women in National Parliaments (%).” Accessed February 4, 2025. https://genderdata.worldbank.org/en/indicator/sg-gen-parl-zs.
+
 World Bank Gender Data Portal. “Ratio of Female to Male Labor Force Participation Rate (%).” Accessed February 4, 2025. https://genderdata.worldbank.org/en/indicator/sl-tlf-cact-fm-zs.
+
 World Bank Gender Data Portal. “The Government Administers 100 Percent of Maternity Leave Benefits (1=yes; 0=no).” Accessed February 4, 2025. https://genderdata.worldbank.org/en/indicator/sh-mmr-leve-gt.
