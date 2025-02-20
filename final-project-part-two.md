@@ -1,6 +1,6 @@
 | [home page ](https://ag035.github.io/amyguan-dataviz-portfolio/)| [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Wireframes / storyboards
+# Storyboard
 
 Shorthand: [Preview Link](https://preview.shorthand.com/iuvJDroHkY0ppFfp) 
 
